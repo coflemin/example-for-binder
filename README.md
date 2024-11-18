@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coflemin/example-for-binder/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fcoflemin%2Fexample-for-binder%2Fblob%2Fmain%2FTest1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coflemin/example-for-binder/HEAD?labpath=Test1.ipynb)
